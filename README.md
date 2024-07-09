@@ -2,7 +2,7 @@
 `Software Engineer with 4+ years of experience in iOS and full-stack.`
 
 <div id="badges">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/viniciusbinder/)">
+  <a href="https://www.linkedin.com/in/viniciusbinder/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>

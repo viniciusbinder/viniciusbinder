@@ -1,5 +1,5 @@
 ## Hi, I'm Vini
-`Software Engineer with 4+ years of experience in iOS and full-stack.`
+`Software Engineer with 3+ years of professional experience in iOS and full-stack.`
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/viniciusbinder/">

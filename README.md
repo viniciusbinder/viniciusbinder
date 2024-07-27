@@ -2,7 +2,7 @@
 
 My name is _Vinicius Binder_ but you can call me **_Vini_**.
 
-I'm an ** iOS Developer** with backend experience, working professionally for over 4 years.
+I'm an ** iOS Developer** with 4+ years of experience in native iOS and backend development.
 
 ### Main languages and tools
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)

@@ -1,6 +1,6 @@
 # Hello! Olá!
 
-My name is _Vinícius Binder_ but you can call me **_Vini_**.
+My name is Vinícius Binder but you can call me **Vini**.
 
 I'm an ** iOS Developer** with 4+ years of experience in native iOS and backend development.
 

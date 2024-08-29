@@ -2,7 +2,9 @@
 
 My name is Vinícius Binder but you can call me **Vini**.
 
-I'm an ** iOS Developer** with 4+ years of experience in native iOS and backend development.
+I'm an  **iOS Developer** with 4+ years of experience in native iOS and backend development.
+
+[<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/viniciusbinder/)
 
 ### Main languages and tools
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
@@ -15,7 +17,3 @@ I'm an ** iOS Developer** with 4+ years of experience in native iOS and backe
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>
 </div>
-
-
-### Reach me!
-[<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/viniciusbinder/)
